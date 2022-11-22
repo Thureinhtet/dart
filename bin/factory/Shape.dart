@@ -1,10 +1,6 @@
 
 import 'dart:math';
 
-import '../abstract/abstract.dart';
-
-
-
 abstract class Shape{
   double get area;
 

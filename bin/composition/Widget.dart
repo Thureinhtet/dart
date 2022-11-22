@@ -1,5 +1,4 @@
 abstract class Widget{
-
 }
 class Text extends Widget{
   final String value;

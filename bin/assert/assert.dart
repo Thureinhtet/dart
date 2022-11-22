@@ -1,4 +1,5 @@
-class PositiveInt{
+class PositiveInt
+{
   final int value;
    PositiveInt(this.value) : assert (value>=0,'Value cannot be negative');
 }
